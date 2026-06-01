@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sleep Cycle Dynamics Simulator",
+  "description": "An interactive scientific simulator of the sleep-wake cycle combining homeostatic sleep pressure (adenosine), a circadian SCN molecular clock (harmonic oscillator), and a bistable flip-flop circuit (VLPO-LH mutual inhibition).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
